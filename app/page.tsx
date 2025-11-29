@@ -605,7 +605,7 @@ export default function Home() {
                 <div className="w-2 h-2 rounded-full bg-gradient-to-r from-emerald-400 to-teal-500 animate-pulse"></div>
                 <p className="text-xs uppercase tracking-[0.2em] bg-gradient-to-r from-emerald-300 to-teal-300 bg-clip-text text-transparent font-semibold">Music Player</p>
               </div>
-              <h1 className="text-3xl font-black bg-gradient-to-r from-emerald-400 via-teal-400 to-cyan-400 bg-clip-text text-transparent drop-shadow-lg">Zync</h1>
+              <h1 className="text-3xl font-black bg-gradient-to-r from-emerald-400 via-teal-400 to-cyan-400 bg-clip-text text-transparent drop-shadow-lg">Ryhtemix</h1>
             </div>
           </div>
 
